@@ -1,0 +1,42 @@
+.forms {
+  margin: 50px 0 20px;
+}
+.forms__wrapper {
+}
+.container-fluid {
+}
+.row {
+}
+.col-12 {
+}
+.container {
+}
+.forms__box {
+}
+.forms__title {
+}
+.mb-0 {
+}
+.mt-3 {
+}
+.my-0 {
+}
+.form-control {
+}
+.my-4 {
+}
+.btn {
+}
+.text-uppercase {
+}
+.fw-bold {
+}
+.px-3 {
+}
+.py-2 {
+}
+.forms__button {
+  @include btn;
+  border-radius: 5px;
+  font-size: 20px;
+}
